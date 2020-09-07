@@ -8,3 +8,8 @@ Developing various CNN classification models in Python/Keras/Tensorflow for the 
 # MNIST Model Comparison 
 
 ![image](https://user-images.githubusercontent.com/47435671/92407103-4f8a1e80-f0ff-11ea-8ec7-1e79fd361244.png)
+
+# Best CNN Model for CIFAR-10 Dataset
+
+![image](https://user-images.githubusercontent.com/47435671/92407236-9bd55e80-f0ff-11ea-94fc-5cfc874a542d.png)
+
